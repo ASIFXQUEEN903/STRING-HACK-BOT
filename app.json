@@ -1,0 +1,45 @@
+{
+    "name": "Stranger Hack Bot",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by NOBITA",
+    "logo": "https://envs.sh/wpl.jpg",
+    "keywords": [
+        "TELETHON",
+        "shivash op",
+        "Telegram Bot",
+        "piro bolte",
+        "SHIVANSH39"
+    ],
+    "website": "",
+    "success_url": "https://telegram.dog/SHIVANSH39",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": "462de3dfc98fd938ef9c6ee31a72d099"
+        },
+        "SUDOERS": {
+            "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
+            "value": "5099049612 6132821365"
+        },
+        "API_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": "29308061"
+        },
+         "MONGO_URL": {
+            "description": "MONGO DB URL ",
+            "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
+         },
+          "LOG_GROUP_ID": {
+            "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
+            "value": ""
+          },
+      
+          "MUST_JOIN": {
+            "description": "FORCE SUBSCRIBE BOT EX - BOT_HEART",
+            "value": "ARAME9"
+        }
+    }
+}
